@@ -32,3 +32,9 @@ import Transition from 'react-transition-group/Transition'; //can be any name fo
           )}
         </Transition>
 ```
+
+Alternative => React Motion: [https://github.com/chenglou/react-motion](https://github.com/chenglou/react-motion)
+
+Alternative => React Move: [https://github.com/react-tools/react-move](https://github.com/react-tools/react-move)
+
+Animating Route Animations: [https://github.com/maisano/react-router-transition](https://github.com/maisano/react-router-transition)
